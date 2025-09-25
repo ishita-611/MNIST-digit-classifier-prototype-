@@ -3,7 +3,9 @@ This is a simple prototype deep learning project that classifies handwritten dig
 
 ![Demo](images/demo1.png)
 
+
 ![Demo](images/demo2.png)
+
 
 ![Demo](images/demo3.png)
 
